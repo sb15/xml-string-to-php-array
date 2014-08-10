@@ -1,0 +1,22 @@
+{
+    "name": "sb15/xml-string-to-php-array",
+    "type": "library",
+    "description": "xml to array",
+    "keywords": ["xml"],
+    "homepage": "https://github.com/sb15/xml-string-to-php-array",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Perov",
+            "email": "alex@sb6.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },    
+    "autoload": {        
+        "files": [
+            "xmlstr_to_array.php"            
+        ]
+    }
+}
