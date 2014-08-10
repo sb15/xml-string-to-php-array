@@ -16,7 +16,7 @@
     },    
     "autoload": {        
         "files": [
-            "xmlstr_to_array.php"            
+            "xmlstr_to_array.php"
         ]
     }
 }
